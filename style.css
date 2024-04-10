@@ -1,0 +1,65 @@
+body{
+    background-image: url(background.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenitore{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 2%;
+    height: 900px;
+    margin: auto;
+    margin-top: 30px;
+    width: 1200px;
+}
+header{
+    color: lime;
+    text-align: center;
+}
+header>img{
+    margin-top: 120px;
+    width: 230px;
+}
+header>h1{
+    margin-top: 0px;
+}
+nav{
+    background-color: lime;
+    margin: 0 auto;    
+    padding: 10px;
+    text-align: center;
+    width: 910px;
+}
+section{
+    color: rgb(205, 203, 203);
+    line-height: 22px;
+    margin: 0 auto;
+    text-align: left;
+    width: 930px;
+}
+.mono{
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.yellowbar{
+    background-color: yellow;
+    border-radius: 7px 7px 7px 7px;
+    height: 30px;
+    margin-top: 0px;
+    width: 300px;
+}
+.greenbar{
+    background-color: rgb(60, 255, 0);
+    border-radius: 7px 7px 7px 7px;
+    height: 30px;
+    margin-top: 0px;
+    width: 600px;
+}
+.redbar{
+    background-color: rgb(255, 47, 0);
+    border-radius: 7px 7px 7px 7px;
+    height: 30px;
+    margin-top: 0px;
+    width: 150px;
+}
